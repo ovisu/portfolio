@@ -183,7 +183,7 @@ li {
   grid-template-columns: 1fr 1fr 1fr 1fr;
   margin-top: 50px;
   text-align: center;
-
+  color: #c6c7b3;
   justify-content: center;
 }
 
